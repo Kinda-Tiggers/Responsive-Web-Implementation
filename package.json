@@ -1,5 +1,5 @@
 {
-	"name": "advanced-css-1",
+	"name": "responsive-website-example",
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
@@ -7,7 +7,7 @@
 		"compile:sass": "node-sass sass/main.scss css/style.css -w",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"author": "ghostin",
+	"author": "kindaTiggers",
 	"license": "ISC",
 	"devDependencies": {
 		"node-sass": "^4.13.1"
